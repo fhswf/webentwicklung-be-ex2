@@ -10,4 +10,5 @@ Im ersten Praktikum haben wir das Backend initialisiert und eine REST-Schnittste
 - [x] [Projekt initialisieren](backend/exercise0.md)
 - [x] [REST-Schnittstelle erstellen](backend/exercise1.md)
 - [ ] [ToDos in Datenbank persistieren](backend/exercise2.md)
-- [ ] [Benutzerverwaltung konfigurieren](backend/exercise3.md)
+- [ ] [Anbindung des Frontends](frontend/exercise3.md)
+- [ ] [Benutzerverwaltung konfigurieren](backend/exercise4.md)
